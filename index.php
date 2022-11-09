@@ -271,8 +271,9 @@
 </body>
 <div class="copyright">
   <p>
-      &copy; Ameya (Bishal Shrestha, Kashyap Chapagain, Saurav Lamichhane, Sagar Panth)
+      &copy;Ankuram 2022 &#5 
   </p>
+  <p>Designed & Developed By Ameya (Bishal Shrestha, Kashyap Chapagain, Saurav Lamichhane, Sagar Panth) </p>
 </div>
 
 </html>
